@@ -1,5 +1,5 @@
 To build the container
-$ docker build -t <image-name> .
+$ docker build -t \<image-name\> .
 
 To run the container
 $ docker run -it -p 8888:8888 <image-name>
