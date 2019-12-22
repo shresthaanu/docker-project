@@ -1,3 +1,6 @@
+clone this repository for source code and data
+$ git clone https://github.com/shresthaanu/docker-project.git
+
 To build the container
 $ docker build -t \<image-name\> .
 
